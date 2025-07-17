@@ -9,9 +9,9 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "",
-    "PREFIX": "!",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "ID1"
+        "100091244094670"
     ],
     "DATABASE": {
         "sqlite": {
